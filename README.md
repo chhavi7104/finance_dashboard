@@ -1,1 +1,2 @@
-# expenditure manager
+# Finance dashboard
+
