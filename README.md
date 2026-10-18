@@ -1,6 +1,5 @@
 # Finance dashboard
 
-
 # 💳 FinWallet – Digital Wallet Application
 
 A full-stack fintech-inspired Digital Wallet application built with **Angular** and **Spring Boot**. This project demonstrates how a modern wallet system works by allowing users to manage their balance, transfer money, and view transaction history through a clean web interface.
